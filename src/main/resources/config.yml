@@ -1,0 +1,4 @@
+commands:
+  example:
+    command: "say Test command from TimeCommands"
+    time: 3600

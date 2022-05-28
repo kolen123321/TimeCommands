@@ -1,0 +1,8 @@
+name: TimeCommands
+version: '${project.version}'
+main: com.kolen.timecommands.TimeCommands
+commands:
+  timecommands:
+    description: TimeCommands setting command
+  tc:
+    description: TimeCommands setting command
